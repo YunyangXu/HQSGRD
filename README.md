@@ -16,7 +16,7 @@ The main requirements are opencv (4.7.0) and Microsoft Visual Studio 2022.
 3. When Save_Image == 1, the visual result of the superpixel is saved. When Save_Label_file == 1, save the split mark file of the super pixel.
 
 # How to use your own data
-1. The RCF method is used to obtain the edge detection results of the input image and perform non-maximum suppression.[RCF_code](https://github.com/yun-liu/RCF)
+1. The RCF method is used to obtain the edge detection results of the input image and perform non-maximum suppression. [RCF_code](https://github.com/yun-liu/RCF)
 2. Put the result of non-maximum suppression and the original image into Input_Folder.  
 3. Run the algorithm.
 
