@@ -17,7 +17,7 @@ The main requirements are opencv (4.7.0) and Microsoft Visual Studio 2022.
 
 # How to use your own data
 1. The RCF method is used to obtain the edge detection results of the input image and perform non-maximum suppression. [RCF_code](https://github.com/yun-liu/RCF)
-2. Put the result of non-maximum suppression and the original image into Input_Folder.  
+2. Put the result of non-maximum suppression and the original image into Input_folder.  
 3. Run the algorithm.
 
 # Citation
