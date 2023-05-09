@@ -22,10 +22,12 @@ The main requirements are opencv (4.7.0) and Microsoft Visual Studio 2022.
 
 # Citation
 
-@article{xu2022high,
-  title={High quality superpixel generation through regional decomposition},
+@ARTICLE{xu2022high,
   author={Xu, Yunyang and Gao, Xifeng and Zhang, Caiming and Tan, Jianchao and Li, Xuemei},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2022},
-  publisher={IEEE}
-}
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={High Quality Superpixel Generation Through Regional Decomposition}, 
+  year={2023},
+  volume={33},
+  number={4},
+  pages={1802-1815},
+  doi={10.1109/TCSVT.2022.3216303}}
